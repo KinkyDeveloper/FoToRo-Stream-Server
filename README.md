@@ -3,7 +3,7 @@ FoToRo Stream Server is simple server application providing access to your local
 So far only ChastityBabes website is supported.
 
 ## Install
-If these steps are confusing, use [detailed installation tutorial](wiki/Installation-tutorial)
+If these steps are confusing, use [detailed installation tutorial](https://github.com/KinkyDeveloper/FoToRo-Stream-Server/wiki/Installation-tutorial)
 1. Clone this repository
 1. Create `.env` file in the root directory
 1. Run `npm install` to install dependencies
